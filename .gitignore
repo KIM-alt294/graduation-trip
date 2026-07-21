@@ -1,0 +1,7 @@
+# 進捗管理ファイル(OneDrive共有で管理、Gitには含めない)
+卒業旅行サイト_進捗管理.xlsx
+~$*.xlsx
+
+# OS / エディタの一時ファイル
+.DS_Store
+Thumbs.db
